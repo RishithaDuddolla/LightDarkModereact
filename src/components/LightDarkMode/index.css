@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.bgw {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+}
+.bg {
+  border: solid 1px #ffffff;
+  background-color: black;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.h1 {
+  font-size: 26px;
+  font-family: 'Roboto';
+  padding: 5px;
+  font-weight: bold;
+}
+.wh1 {
+  color: #ffffff;
+}
+.bh1 {
+  color: black;
+}
+.darkbg {
+  border: solid 1px #ffffff;
+  background-color: black;
+}
+.whitebg {
+  border: solid 1px black;
+  background-color: #ffffff;
+}
+.btnclassname {
+  font-size: 12px;
+  padding: 5px;
+  background-color: white;
+  font-family: 'Roboto';
+  border: solid 1px #000000;
+  border-radius: 5px;
+}
